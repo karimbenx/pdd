@@ -1,0 +1,1058 @@
+[
+  {
+    "Area": "Adambakkam",
+    "Location": "South and East Chennai",
+    "Latitude": 12.988,
+    "Longitude": 80.2047
+  },
+  {
+    "Area": "Adyar",
+    "Location": "South and East Chennai",
+    "Latitude": 13.0012,
+    "Longitude": 80.2565
+  },
+  {
+    "Area": "Alandur",
+    "Location": "South and East Chennai",
+    "Latitude": 12.9975,
+    "Longitude": 80.2006
+  },
+  {
+    "Area": "Alapakkam",
+    "Location": "West Chennai",
+    "Latitude": 13.049,
+    "Longitude": 80.1673
+  },
+  {
+    "Area": "Alwarthirunagar",
+    "Location": "West Chennai",
+    "Latitude": 13.0426,
+    "Longitude": 80.184
+  },
+  {
+    "Area": "Ambattur",
+    "Location": "West Chennai",
+    "Latitude": 13.1143,
+    "Longitude": 80.1548
+  },
+  {
+    "Area": "Aminjikarai",
+    "Location": "West Chennai",
+    "Latitude": 13.0698,
+    "Longitude": 80.2245
+  },
+  {
+    "Area": "Anna Nagar",
+    "Location": "West Chennai",
+    "Latitude": 13.085,
+    "Longitude": 80.2101
+  },
+  {
+    "Area": "Annanur",
+    "Location": "West Chennai",
+    "Latitude": 13.1184,
+    "Longitude": 80.1246
+  },
+  {
+    "Area": "Arumbakkam",
+    "Location": "West Chennai",
+    "Latitude": 13.0724,
+    "Longitude": 80.2102
+  },
+  {
+    "Area": "Ashok Nagar",
+    "Location": "West Chennai",
+    "Latitude": 13.0373,
+    "Longitude": 80.2123
+  },
+  {
+    "Area": "Avadi",
+    "Location": "West Chennai",
+    "Latitude": 13.1067,
+    "Longitude": 80.097
+  },
+  {
+    "Area": "Ayappakkam",
+    "Location": "West Chennai",
+    "Latitude": 13.0925,
+    "Longitude": 80.1372
+  },
+  {
+    "Area": "Basin Bridge",
+    "Location": "North Chennai",
+    "Latitude": 13.1014,
+    "Longitude": 80.2704
+  },
+  {
+    "Area": "Besant Nagar",
+    "Location": "South and East Chennai",
+    "Latitude": 13.0003,
+    "Longitude": 80.2667
+  },
+  {
+    "Area": "Broadway",
+    "Location": "North Chennai",
+    "Latitude": 19.2274,
+    "Longitude": 72.9739
+  },
+  {
+    "Area": "Central",
+    "Location": "North Chennai",
+    "Latitude": 13.0825,
+    "Longitude": 80.2755
+  },
+  {
+    "Area": "Chetpet",
+    "Location": "South and East Chennai",
+    "Latitude": 13.0714,
+    "Longitude": 80.2417
+  },
+  {
+    "Area": "Choolai",
+    "Location": "North Chennai",
+    "Latitude": 13.0919,
+    "Longitude": 80.2642
+  },
+  {
+    "Area": "MMDA�Colony",
+    "Location": "West Chennai",
+    "Latitude": 13.0665,
+    "Longitude": 80.2147
+  },
+  {
+    "Area": "Defence Colony",
+    "Location": "West Chennai",
+    "Latitude": 13.0262,
+    "Longitude": 80.2022
+  },
+  {
+    "Area": "Egmore",
+    "Location": "South and East Chennai",
+    "Latitude": 13.0732,
+    "Longitude": 80.2609
+  },
+  {
+    "Area": "Ennore",
+    "Location": "North Chennai",
+    "Latitude": 13.2146,
+    "Longitude": 80.3203
+  },
+  {
+    "Area": "Erukanchery",
+    "Location": "North Chennai",
+    "Latitude": 13.12368,
+    "Longitude": 80.24828
+  },
+  {
+    "Area": "George Town",
+    "Location": "North Chennai",
+    "Latitude": 13.0969,
+    "Longitude": 80.2865
+  },
+  {
+    "Area": "Gerugambakkam",
+    "Location": "West Chennai",
+    "Latitude": 13.0136,
+    "Longitude": 80.1353
+  },
+  {
+    "Area": "Gopalapuram",
+    "Location": "South and East Chennai",
+    "Latitude": 13.0489,
+    "Longitude": 80.2586
+  },
+  {
+    "Area": "Guindy",
+    "Location": "South and East Chennai",
+    "Latitude": 13.0067,
+    "Longitude": 80.2206
+  },
+  {
+    "Area": "Hastinapuram",
+    "Location": "South and East Chennai",
+    "Latitude": 12.9387,
+    "Longitude": 80.1461
+  },
+  {
+    "Area": "ICF Colony",
+    "Location": "North Chennai",
+    "Latitude": 13.0981,
+    "Longitude": 80.2195
+  },
+  {
+    "Area": "Injambakkam",
+    "Location": "South and East Chennai",
+    "Latitude": 12.9198,
+    "Longitude": 80.2511
+  },
+  {
+    "Area": "Irumbuliyur",
+    "Location": "South and East Chennai",
+    "Latitude": 12.9172,
+    "Longitude": 80.1077
+  },
+  {
+    "Area": "Iyyapanthangal",
+    "Location": "West Chennai",
+    "Latitude": 13.0381,
+    "Longitude": 80.1354
+  },
+  {
+    "Area": "Jamalia",
+    "Location": "North Chennai",
+    "Latitude": 13.1048,
+    "Longitude": 80.2533
+  },
+  {
+    "Area": "K.K. Nagar",
+    "Location": "West Chennai",
+    "Latitude": 13.041,
+    "Longitude": 80.1994
+  },
+  {
+    "Area": "Kadaperi",
+    "Location": "South and East Chennai",
+    "Latitude": 12.9336,
+    "Longitude": 80.1254
+  },
+  {
+    "Area": "Kallikuppam",
+    "Location": "North Chennai",
+    "Latitude": 13.13097,
+    "Longitude": 80.17486
+  },
+  {
+    "Area": "Karambakkam",
+    "Location": "West Chennai",
+    "Latitude": 13.0376,
+    "Longitude": 80.1532
+  },
+  {
+    "Area": "Kathirvedu",
+    "Location": "North Chennai",
+    "Latitude": 13.1521,
+    "Longitude": 80.2001
+  },
+  {
+    "Area": "Kathivakkam",
+    "Location": "North Chennai",
+    "Latitude": 13.2046,
+    "Longitude": 80.31674
+  },
+  {
+    "Area": "Keelkattalai",
+    "Location": "South and East Chennai",
+    "Latitude": 12.9556,
+    "Longitude": 80.1869
+  },
+  {
+    "Area": "Kodungaiyur",
+    "Location": "North Chennai",
+    "Latitude": 13.14096,
+    "Longitude": 80.24818
+  },
+  {
+    "Area": "Kolappakkam",
+    "Location": "South and East Chennai",
+    "Latitude": 13.0101,
+    "Longitude": 80.1492
+  },
+  {
+    "Area": "Kolathur",
+    "Location": "North Chennai",
+    "Latitude": 13.124,
+    "Longitude": 80.2121
+  },
+  {
+    "Area": "Korattur",
+    "Location": "West Chennai",
+    "Latitude": 13.1082,
+    "Longitude": 80.1834
+  },
+  {
+    "Area": "Korukkupet",
+    "Location": "North Chennai",
+    "Latitude": 13.1186,
+    "Longitude": 80.278
+  },
+  {
+    "Area": "Kosapet",
+    "Location": "North Chennai",
+    "Latitude": 13.0922,
+    "Longitude": 80.2551
+  },
+  {
+    "Area": "Kottivakkam",
+    "Location": "South and East Chennai",
+    "Latitude": 12.9682,
+    "Longitude": 80.2599
+  },
+  {
+    "Area": "Kovilambakkam",
+    "Location": "South and East Chennai",
+    "Latitude": 12.9409,
+    "Longitude": 80.1851
+  },
+  {
+    "Area": "Koyambedu",
+    "Location": "West Chennai",
+    "Latitude": 13.0694,
+    "Longitude": 80.1948
+  },
+  {
+    "Area": "Kundrathur",
+    "Location": "West Chennai",
+    "Latitude": 12.9977,
+    "Longitude": 80.0972
+  },
+  {
+    "Area": "Lakshmipuram",
+    "Location": "North Chennai",
+    "Latitude": 13.1361,
+    "Longitude": 80.2005
+  },
+  {
+    "Area": "M.G.R. Garden",
+    "Location": "West Chennai",
+    "Latitude": 13.025,
+    "Longitude": 80.1823
+  },
+  {
+    "Area": "M.G.R. Nagar",
+    "Location": "West Chennai",
+    "Latitude": 13.0352,
+    "Longitude": 80.1973
+  },
+  {
+    "Area": "M.K.B. Nagar",
+    "Location": "North Chennai",
+    "Latitude": 13.12128,
+    "Longitude": 80.25873
+  },
+  {
+    "Area": "Madhavaram",
+    "Location": "North Chennai",
+    "Latitude": 13.1488,
+    "Longitude": 80.2306
+  },
+  {
+    "Area": "Madhavaram Milk Colony",
+    "Location": "North Chennai",
+    "Latitude": 13.1505,
+    "Longitude": 80.2419
+  },
+  {
+    "Area": "Madipakkam",
+    "Location": "South and East Chennai",
+    "Latitude": 12.9647,
+    "Longitude": 80.1961
+  },
+  {
+    "Area": "Maduravoyal",
+    "Location": "West Chennai",
+    "Latitude": 13.0656,
+    "Longitude": 80.1608
+  },
+  {
+    "Area": "Mambakkam",
+    "Location": "South and East Chennai",
+    "Latitude": 12.84029,
+    "Longitude": 80.15343
+  },
+  {
+    "Area": "Manali",
+    "Location": "North Chennai",
+    "Latitude": 13.1779,
+    "Longitude": 80.2701
+  },
+  {
+    "Area": "Manali New Town",
+    "Location": "North Chennai",
+    "Latitude": 13.1933,
+    "Longitude": 80.2708
+  },
+  {
+    "Area": "manapakkam",
+    "Location": "West Chennai",
+    "Latitude": 13.0213,
+    "Longitude": 80.1832
+  },
+  {
+    "Area": "Mangadu",
+    "Location": "West Chennai",
+    "Latitude": 13.04188,
+    "Longitude": 80.11501
+  },
+  {
+    "Area": "Manjambakkam",
+    "Location": "North Chennai",
+    "Latitude": 13.16691,
+    "Longitude": "�   80.22942"
+  },
+  {
+    "Area": "Mannadi",
+    "Location": "North Chennai",
+    "Latitude": 13.0928,
+    "Longitude": 80.2893
+  },
+  {
+    "Area": "Mathur MMDA",
+    "Location": "North Chennai",
+    "Latitude": 13.1724,
+    "Longitude": 80.24788
+  },
+  {
+    "Area": "Medavakkam",
+    "Location": "South and East Chennai",
+    "Latitude": 12.9171,
+    "Longitude": 80.1923
+  },
+  {
+    "Area": "Minjur",
+    "Location": "North Chennai",
+    "Latitude": 13.2789,
+    "Longitude": 80.2623
+  },
+  {
+    "Area": "Mogappair",
+    "Location": "West Chennai",
+    "Latitude": 13.0837,
+    "Longitude": 80.175
+  },
+  {
+    "Area": "Moolakadai",
+    "Location": "North Chennai",
+    "Latitude": 13.1296,
+    "Longitude": 80.2416
+  },
+  {
+    "Area": "Mowlivakkam",
+    "Location": "West Chennai",
+    "Latitude": 13.02172,
+    "Longitude": 80.14146
+  },
+  {
+    "Area": "Mudichur",
+    "Location": "South and East Chennai",
+    "Latitude": 12.9102,
+    "Longitude": 80.07171
+  },
+  {
+    "Area": "Mugalivakkam",
+    "Location": "West Chennai",
+    "Latitude": 13.021,
+    "Longitude": 80.1614
+  },
+  {
+    "Area": "Mylapore",
+    "Location": "South and East Chennai",
+    "Latitude": 13.0368,
+    "Longitude": 80.2676
+  },
+  {
+    "Area": "Nagalkeni",
+    "Location": "South and East Chennai",
+    "Latitude": 12.9646,
+    "Longitude": 80.1359
+  },
+  {
+    "Area": "Nandambakkam",
+    "Location": "West Chennai",
+    "Latitude": 12.9824,
+    "Longitude": 80.0603
+  },
+  {
+    "Area": "Nanganallur",
+    "Location": "South and East Chennai",
+    "Latitude": 12.9807,
+    "Longitude": 80.1882
+  },
+  {
+    "Area": "Naravarikuppam",
+    "Location": "North Chennai",
+    "Latitude": 13.19133,
+    "Longitude": 80.18473
+  },
+  {
+    "Area": "Neelankarai",
+    "Location": "South and East Chennai",
+    "Latitude": 12.9492,
+    "Longitude": 80.2547
+  },
+  {
+    "Area": "Nerkundrum",
+    "Location": "West Chennai",
+    "Latitude": 13.0678,
+    "Longitude": 80.1859
+  },
+  {
+    "Area": "Nesapakkam",
+    "Location": "West Chennai",
+    "Latitude": 13.0379,
+    "Longitude": 80.192
+  },
+  {
+    "Area": "New Washermenpet",
+    "Location": "North Chennai",
+    "Latitude": 13.1148,
+    "Longitude": 80.2872
+  },
+  {
+    "Area": "Nolambur",
+    "Location": "West Chennai",
+    "Latitude": 13.0754,
+    "Longitude": 80.168
+  },
+  {
+    "Area": "Old Washermenpet",
+    "Location": "North Chennai",
+    "Latitude": 13.1148,
+    "Longitude": 80.2872
+  },
+  {
+    "Area": "Oragadam",
+    "Location": "North Chennai",
+    "Latitude": 13.129,
+    "Longitude": 80.1548
+  },
+  {
+    "Area": "Otteri",
+    "Location": "North Chennai",
+    "Latitude": 13.0921,
+    "Longitude": 80.251
+  },
+  {
+    "Area": "Padi",
+    "Location": "West Chennai",
+    "Latitude": 13.0965,
+    "Longitude": 80.1845
+  },
+  {
+    "Area": "Palavakkam",
+    "Location": "South and East Chennai",
+    "Latitude": 12.9617,
+    "Longitude": 80.2562
+  },
+  {
+    "Area": "Pallavaram",
+    "Location": "South and East Chennai",
+    "Latitude": 12.9675,
+    "Longitude": 80.1491
+  },
+  {
+    "Area": "Pallikaranai",
+    "Location": "South and East Chennai",
+    "Latitude": 12.9349,
+    "Longitude": 80.2137
+  },
+  {
+    "Area": "Pammal",
+    "Location": "South and East Chennai",
+    "Latitude": 12.9749,
+    "Longitude": 80.1328
+  },
+  {
+    "Area": "Park Town",
+    "Location": "North Chennai",
+    "Latitude": 13.0796,
+    "Longitude": 80.2752
+  },
+  {
+    "Area": "Parry's Corner",
+    "Location": "North Chennai",
+    "Latitude": 13.0896,
+    "Longitude": 80.2882
+  },
+  {
+    "Area": "Pattabiram",
+    "Location": "North Chennai",
+    "Latitude": 13.11688,
+    "Longitude": 80.06339
+  },
+  {
+    "Area": "Pattalam",
+    "Location": "North Chennai",
+    "Latitude": 13.09739,
+    "Longitude": 80.25929
+  },
+  {
+    "Area": "Pattravakkam",
+    "Location": "North Chennai",
+    "Latitude": 13.1103,
+    "Longitude": 80.1673
+  },
+  {
+    "Area": "Pazhavanthangal",
+    "Location": "South and East Chennai",
+    "Latitude": 12.98954,
+    "Longitude": 80.18629
+  },
+  {
+    "Area": "Peerkankaranai",
+    "Location": "South and East Chennai",
+    "Latitude": 12.9048,
+    "Longitude": 80.089
+  },
+  {
+    "Area": "Perambur",
+    "Location": "North Chennai",
+    "Latitude": 13.121,
+    "Longitude": 80.2326
+  },
+  {
+    "Area": "Periamet",
+    "Location": "North Chennai",
+    "Latitude": 13.0829,
+    "Longitude": 80.266
+  },
+  {
+    "Area": "Perungalathur",
+    "Location": "South and East Chennai",
+    "Latitude": 12.9048,
+    "Longitude": 80.08891
+  },
+  {
+    "Area": "Perungudi",
+    "Location": "South and East Chennai",
+    "Latitude": 12.9654,
+    "Longitude": 80.2461
+  },
+  {
+    "Area": "Ponniammanmedu",
+    "Location": "North Chennai",
+    "Latitude": 13.135,
+    "Longitude": 80.2274
+  },
+  {
+    "Area": "Poonamallee",
+    "Location": "West Chennai",
+    "Latitude": 13.0473,
+    "Longitude": 80.0945
+  },
+  {
+    "Area": "Porur",
+    "Location": "West Chennai",
+    "Latitude": 13.0382,
+    "Longitude": 80.1565
+  },
+  {
+    "Area": "Pozhichalur",
+    "Location": "South and East Chennai",
+    "Latitude": 12.9898,
+    "Longitude": 80.1434
+  },
+  {
+    "Area": "Pudur",
+    "Location": "West Chennai",
+    "Latitude": 13.1299,
+    "Longitude": 80.1603
+  },
+  {
+    "Area": "Pulianthope",
+    "Location": "North Chennai",
+    "Latitude": 13.0982,
+    "Longitude": 80.2683
+  },
+  {
+    "Area": "Purasawalkam",
+    "Location": "North Chennai",
+    "Latitude": 13.0902,
+    "Longitude": 80.2543
+  },
+  {
+    "Area": "Puzhal",
+    "Location": "North Chennai",
+    "Latitude": 13.1585,
+    "Longitude": 80.2037
+  },
+  {
+    "Area": "Ramapuram",
+    "Location": "West Chennai",
+    "Latitude": 13.0317,
+    "Longitude": 80.1817
+  },
+  {
+    "Area": "Red Hills",
+    "Location": "North Chennai",
+    "Latitude": 13.1865,
+    "Longitude": 80.1999
+  },
+  {
+    "Area": "Royapuram",
+    "Location": "North Chennai",
+    "Latitude": 13.1137,
+    "Longitude": 80.2954
+  },
+  {
+    "Area": "Saidapet",
+    "Location": "South and East Chennai",
+    "Latitude": 13.0213,
+    "Longitude": 80.2231
+  },
+  {
+    "Area": "Saligramam",
+    "Location": "West Chennai",
+    "Latitude": 13.0545,
+    "Longitude": 80.2011
+  },
+  {
+    "Area": "Selaiyur",
+    "Location": "South and East Chennai",
+    "Latitude": 12.9068,
+    "Longitude": 80.1425
+  },
+  {
+    "Area": "Selavoyal",
+    "Location": "North Chennai",
+    "Latitude": 13.14577,
+    "Longitude": 80.25571
+  },
+  {
+    "Area": "Sembiam",
+    "Location": "North Chennai",
+    "Latitude": 13.11528,
+    "Longitude": 80.2339
+  },
+  {
+    "Area": "Sholinganallur",
+    "Location": "South and East Chennai",
+    "Latitude": 12.901,
+    "Longitude": 80.2279
+  },
+  {
+    "Area": "Sowcarpet",
+    "Location": "North Chennai",
+    "Latitude": 13.0987,
+    "Longitude": 80.2785
+  },
+  {
+    "Area": "Surapet",
+    "Location": "North Chennai",
+    "Latitude": 13.1454,
+    "Longitude": 80.1838
+  },
+  {
+    "Area": "T. Nagar",
+    "Location": "South and East Chennai",
+    "Latitude": 13.0418,
+    "Longitude": 80.2341
+  },
+  {
+    "Area": "T.V.K. Nagar",
+    "Location": "North Chennai",
+    "Latitude": 13.1199,
+    "Longitude": 80.2342
+  },
+  {
+    "Area": "Tambaram",
+    "Location": "South and East Chennai",
+    "Latitude": 12.9249,
+    "Longitude": 80.1
+  },
+  {
+    "Area": "Taramani",
+    "Location": "South and East Chennai",
+    "Latitude": 12.9863,
+    "Longitude": 80.2432
+  },
+  {
+    "Area": "Teynampet",
+    "Location": "South and East Chennai",
+    "Latitude": 13.0405,
+    "Longitude": 80.2503
+  },
+  {
+    "Area": "Thirumangalam",
+    "Location": "West Chennai",
+    "Latitude": 13.0835,
+    "Longitude": 80.1945
+  },
+  {
+    "Area": "Thirumazhisai",
+    "Location": "West Chennai",
+    "Latitude": 13.0522,
+    "Longitude": 80.0615
+  },
+  {
+    "Area": "Thirumullaivayal",
+    "Location": "West Chennai",
+    "Latitude": 13.1307,
+    "Longitude": 80.1314
+  },
+  {
+    "Area": "Thirumullaivoyal north",
+    "Location": "North Chennai",
+    "Latitude": 13.13183,
+    "Longitude": 80.13082
+  },
+  {
+    "Area": "Thirunindravur",
+    "Location": "West Chennai",
+    "Latitude": 13.1181,
+    "Longitude": 80.0336
+  },
+  {
+    "Area": "Thiruvanmiyur",
+    "Location": "South and East Chennai",
+    "Latitude": 12.983,
+    "Longitude": 80.2594
+  },
+  {
+    "Area": "Thiruverkadu",
+    "Location": "West Chennai",
+    "Latitude": 13.06953,
+    "Longitude": 80.12423
+  },
+  {
+    "Area": "Thoraipakkam",
+    "Location": "South and East Chennai",
+    "Latitude": 12.9386,
+    "Longitude": 80.2377
+  },
+  {
+    "Area": "Thousand Lights",
+    "Location": "South and East Chennai",
+    "Latitude": 13.0617,
+    "Longitude": 80.2544
+  },
+  {
+    "Area": "Tiruvottiyur",
+    "Location": "North Chennai",
+    "Latitude": 13.1643,
+    "Longitude": 80.3001
+  },
+  {
+    "Area": "Tondiarpet",
+    "Location": "North Chennai",
+    "Latitude": 13.1261,
+    "Longitude": 80.288
+  },
+  {
+    "Area": "Triplicane",
+    "Location": "South and East Chennai",
+    "Latitude": 13.0588,
+    "Longitude": 80.2756
+  },
+  {
+    "Area": "Vadapalani",
+    "Location": "West Chennai",
+    "Latitude": 13.05,
+    "Longitude": 80.2121
+  },
+  {
+    "Area": "Valasaravakkam",
+    "Location": "West Chennai",
+    "Latitude": 13.0403,
+    "Longitude": 80.1723
+  },
+  {
+    "Area": "Vallalar Nagar",
+    "Location": "North Chennai",
+    "Latitude": 13.1056,
+    "Longitude": 80.2799
+  },
+  {
+    "Area": "Vandalur",
+    "Location": "South and East Chennai",
+    "Latitude": 12.8913,
+    "Longitude": 80.081
+  },
+  {
+    "Area": "Varadharajapuram",
+    "Location": "South and East Chennai",
+    "Latitude": 12.9095,
+    "Longitude": 80.0703
+  },
+  {
+    "Area": "Velachery",
+    "Location": "South and East Chennai",
+    "Latitude": 12.9815,
+    "Longitude": 80.218
+  },
+  {
+    "Area": "Vepery",
+    "Location": "North Chennai",
+    "Latitude": 13.0853,
+    "Longitude": 80.2607
+  },
+  {
+    "Area": "Villivakkam",
+    "Location": "North Chennai",
+    "Latitude": 13.1086,
+    "Longitude": 80.2061
+  },
+  {
+    "Area": "Virugambakkam",
+    "Location": "West Chennai",
+    "Latitude": 13.0532,
+    "Longitude": 80.1922
+  },
+  {
+    "Area": "Vyasarpadi",
+    "Location": "North Chennai",
+    "Latitude": 13.1246,
+    "Longitude": 80.2628
+  },
+  {
+    "Area": "West Mambalam",
+    "Location": "South and East Chennai",
+    "Latitude": 13.0383,
+    "Longitude": 80.2209
+  },
+  {
+    "Area": "Kancheepuram",
+    "Location": "Suburban Chennai",
+    "Latitude": 13.0827,
+    "Longitude": 80.2707
+  },
+  {
+    "Area": "Chengalpattu",
+    "Location": "Suburban Chennai",
+    "Latitude": 12.6819,
+    "Longitude": 79.9888
+  },
+  {
+    "Area": "Pazhaverkadu",
+    "Location": "Northern Suburbs of Chennai",
+    "Latitude": 13.41667,
+    "Longitude": 80.31667
+  },
+  {
+    "Area": "Ponneri",
+    "Location": "Northern Suburbs of Chennai",
+    "Latitude": 13.32,
+    "Longitude": 80.2
+  },
+  {
+    "Area": "Athipattu",
+    "Location": "Northern Suburbs of Chennai",
+    "Latitude": 13.17081,
+    "Longitude": 79.76802
+  },
+  {
+    "Area": "Sholavaram",
+    "Location": "Northern Suburbs of Chennai",
+    "Latitude": 13.236,
+    "Longitude": 80.1635
+  },
+  {
+    "Area": "Minjur",
+    "Location": "Northern Suburbs of Chennai",
+    "Latitude": 13.2989,
+    "Longitude": 80.2632
+  },
+  {
+    "Area": "Red Hills",
+    "Location": "Northern Suburbs of Chennai",
+    "Latitude": 13.1865,
+    "Longitude": 80.1999
+  },
+  {
+    "Area": "Ennore",
+    "Location": "Northern Suburbs of Chennai",
+    "Latitude": 13.2146,
+    "Longitude": 80.3203
+  },
+  {
+    "Area": "Tiruvallur",
+    "Location": "Western Suburbs of Chennai",
+    "Latitude": 13.2544,
+    "Longitude": 80.0088
+  },
+  {
+    "Area": "Pattabiram",
+    "Location": "Western Suburbs of Chennai",
+    "Latitude": 13.1236,
+    "Longitude": 80.06339
+  },
+  {
+    "Area": "Thirunindravur",
+    "Location": "Western Suburbs of Chennai",
+    "Latitude": 13.1181,
+    "Longitude": 80.0336
+  },
+  {
+    "Area": "Kattupakkam",
+    "Location": "Western Suburbs of Chennai",
+    "Latitude": 13.0414,
+    "Longitude": 80.126
+  },
+  {
+    "Area": "Kundrathur",
+    "Location": "Western Suburbs of Chennai",
+    "Latitude": 12.9977,
+    "Longitude": 80.0972
+  },
+  {
+    "Area": "Kadambathur",
+    "Location": "Western Suburbs of Chennai",
+    "Latitude": 13.09953,
+    "Longitude": 79.86187
+  },
+  {
+    "Area": "Chembarambakkam",
+    "Location": "Southern-Eastern Suburbs of Chennai",
+    "Latitude": 13.0114,
+    "Longitude": 80.0591
+  },
+  {
+    "Area": "Singaperumalkoil",
+    "Location": "Southern-Eastern Suburbs of Chennai",
+    "Latitude": 12.7593,
+    "Longitude": 80.0033
+  },
+  {
+    "Area": "Maraimalai nagar",
+    "Location": "Southern-Eastern Suburbs of Chennai",
+    "Latitude": 12.793,
+    "Longitude": 80.0252
+  },
+  {
+    "Area": "Urapakkam",
+    "Location": "Southern-Eastern Suburbs of Chennai",
+    "Latitude": 12.8674,
+    "Longitude": 80.0699
+  },
+  {
+    "Area": "Guduvanchery",
+    "Location": "Southern-Eastern Suburbs of Chennai",
+    "Latitude": 12.8439,
+    "Longitude": 80.0597
+  },
+  {
+    "Area": "Karapakkam",
+    "Location": "Suburbs along ECR and OMR of Chennai",
+    "Latitude": 12.9191,
+    "Longitude": 80.23
+  },
+  {
+    "Area": "Kanathur",
+    "Location": "Suburbs along ECR and OMR of Chennai",
+    "Latitude": 12.8663,
+    "Longitude": 80.2447
+  },
+  {
+    "Area": "Muthukadu",
+    "Location": "Suburbs along ECR and OMR of Chennai",
+    "Latitude": 12.827,
+    "Longitude": 80.2403
+  },
+  {
+    "Area": "Kelambakkam",
+    "Location": "Suburbs along ECR and OMR of Chennai",
+    "Latitude": 13.06042,
+    "Longitude": 80.24958
+  },
+  {
+    "Area": "Kovalam",
+    "Location": "Suburbs along ECR and OMR of Chennai",
+    "Latitude": 12.787,
+    "Longitude": 80.2504
+  },
+  {
+    "Area": "Siruseri",
+    "Location": "Suburbs along ECR and OMR of Chennai",
+    "Latitude": 12.835,
+    "Longitude": 80.22
+  }
+]
